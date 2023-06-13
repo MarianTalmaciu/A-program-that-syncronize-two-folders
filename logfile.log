@@ -1,0 +1,9 @@
+2023-06-13 23:05:03,928 - my.logger - ERROR - This is an error message
+2023-06-13 23:07:48,062 - my.logger - ERROR - This is an error message
+2023-06-13 23:21:08,897 - my.logger - ERROR - This is an error message
+2023-06-13 23:21:44,674 - my.logger - ERROR - This is an error message
+2023-06-13 23:34:19,795 - my.logger - INFO - This is an info message
+2023-06-13 23:34:19,795 - my.logger - ERROR - This is an error message
+2023-06-13 23:38:51,883 - my.logger - ERROR - This is an error message
+2023-06-13 23:57:02,724 - my.logger - ERROR - This is an error message
+2023-06-13 23:58:01,712 - my.logger - ERROR - This is an error message
